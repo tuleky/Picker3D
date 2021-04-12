@@ -1,2 +1,3 @@
 # Picker3D
  
+This is not a complete solution, needs refactoring...
